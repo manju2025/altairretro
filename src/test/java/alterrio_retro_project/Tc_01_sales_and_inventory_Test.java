@@ -30,6 +30,7 @@ public class Tc_01_sales_and_inventory_Test extends BaseClass
 	//codechanges
 	//codechange
 	//codeup
+	//CODE 340
 	String r = com.getProfileText();
 	com.clickOnProfileText();
 	com.profileImage();
