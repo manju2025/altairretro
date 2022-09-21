@@ -12,7 +12,7 @@ import org.tyss.sales_and_inventory_Generic_script.BaseClass;
 public class Tc_01_sales_and_inventory_Test extends BaseClass
 {
 	@Test
-	//changes done by enginner1
+	//changes done by enginner2
 	public void main() throws EncryptedDocumentException, IOException, InterruptedException
 	{
 		Map<String, String> map = excel.getDataFromExcelByMap("commondata");
