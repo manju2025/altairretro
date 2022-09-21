@@ -26,6 +26,7 @@ public class Tc_01_sales_and_inventory_Test extends BaseClass
 	web.verifyWebPage(com.homebutton(), "Home", driver, com.homebutton());
 	com.profileImage();
 	com.profileButton();
+	//code update
 	String r = com.getProfileText();
 	com.clickOnProfileText();
 	com.profileImage();
