@@ -27,6 +27,7 @@ public class Tc_01_sales_and_inventory_Test extends BaseClass
 	com.profileImage();
 	com.profileButton();
 	//code update
+	//codechanges
 	String r = com.getProfileText();
 	com.clickOnProfileText();
 	com.profileImage();
